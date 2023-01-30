@@ -121,6 +121,7 @@
         <AdvertBannersRaidsRate Value="0" />
         <Disciple Value="0" />
         <ShowDojoDisciple Value="0" />
+        <Disciple Value="1" />
       </SessionSettings>
       <Quests>
         <Quests>
