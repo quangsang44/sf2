@@ -8,7 +8,7 @@
     <WatchedVideos />
   </CurrentUser>
   <Warriors>
-    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="1065564" Bonus="97775581" Strength="99999" Stamina="99999" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_SPIKE" Helm="HELM_GREEN_MASK" Weapon="WEAPON_NINJA_SWORD" Ranged="RANGED_KUNAI" Magic="MAGIC_FIRE_BALL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_3" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="103916685" ServerUserID="890014182" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="1" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675094964" FightIDS="ZONE_3|BOSS_BUTCHER|1" MapFocus="ZONE_3|BOSS_BUTCHER" SocialLoginFailedCount="1" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere1_Name" RaidBuffName="PotionSpikes" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|RAIDBOSS_FIRE_LOCKED" PeriodicPlayTime="1675092412" ShowForge="1" EclipseMode="Off" MapMaskColor="#FFFFFFFF">
+    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="1065564" Bonus="97775333" Strength="99999" Stamina="99999" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_LEGIONER" Helm="HELM_GREEN_MASK" Weapon="WEAPON_NINJA_SWORD" Ranged="RANGED_KUNAI" Magic="MAGIC_FIRE_BALL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_3" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="103916685" ServerUserID="890014182" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="1" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675100516" FightIDS="ZONE_3|BOSS_BUTCHER|1" MapFocus="ZONE_1|BOSS_LYNX" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere1_Name" RaidBuffName="PotionSpikes" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|RAIDBOSS_FIRE_LOCKED" PeriodicPlayTime="1675092412" ShowForge="1" EclipseMode="Off" MapMaskColor="#FFFFFFFF">
       <Items>
         <Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
@@ -28,8 +28,8 @@
         <Item Name="HELM_LIGHT" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade" />
         <Item Name="WEAPON_NINJA_SWORD" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
-            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
-              <Set Aspect="1867" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="1896" />
             </Perk>
           </Enchantments>
         </Item>
@@ -42,8 +42,8 @@
         </Item>
         <Item Name="HELM_GREEN_MASK" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
-            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_DEFENSE_HELM">
-              <Set Aspect="1867" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
+              <Set Aspect="1875" />
             </Perk>
           </Enchantments>
         </Item>
@@ -56,12 +56,18 @@
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="RANGED_KUNAI" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade" />
+        <Item Name="RANGED_KUNAI" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_RANGED">
+              <Set Aspect="1863" />
+            </Perk>
+          </Enchantments>
+        </Item>
         <Item Name="drop_name_greenseal" Equipped="0" Count="2" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="0" AcquireType="Upgrade" />
         <Item Name="MAGIC_FIRE_BALL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
-            <Perk Name="PERK_ITEM_SPECIAL_WEAKNESS_MAGIC">
-              <Set Aspect="1867" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1879" />
             </Perk>
           </Enchantments>
         </Item>
@@ -72,10 +78,17 @@
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="ARMOR_SPIKE" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="ARMOR_SPIKE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
-            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_DEFENSE_ARMOR">
-              <Set Aspect="1867" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
+              <Set Aspect="1872" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_LEGIONER" Equipped="1" Count="1" UpgradeLevel="5200" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="1890" />
             </Perk>
           </Enchantments>
         </Item>
@@ -101,7 +114,7 @@
         <Battle Name="ZONE_3|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
         <Battle Name="ZONE_3|Challenge|" Locked="1" Hidden="0" ReplayCount="0" />
       </Battles>
-      <Currencies ForgeMaterial1="9877777777" ForgeMaterial2="9877777777" ForgeMaterial3="9877777777" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="72029578" ForgeMaterial2="85108190" ForgeMaterial3="90000000" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
         <Counter Name="FirstHits" CurrentValue="36" />
@@ -121,6 +134,7 @@
         <Counter Name="BodyGuardsWin2" CurrentValue="1" />
         <Counter Name="BossWin2" CurrentValue="1" />
         <Counter Name="DisarmEclipse" CurrentValue="1" />
+        <Counter Name="Enchantments" CurrentValue="49" />
       </Counters>
       <Achievements>
         <Achievement Name="achievement_name_perfect_1" ObtainedReward="true" />
@@ -138,29 +152,6 @@
         <Achievement Name="Achievement_Name_Boss_2" ObtainedReward="false" />
       </Achievements>
       <RepostAchievements>
-        <RepostAchievement Name="achievement_name_firsthits_1" />
-        <RepostAchievement Name="achievement_name_unarmed_1" />
-        <RepostAchievement Name="achievement_name_headhitrounds_1" />
-        <RepostAchievement Name="achievement_name_disarm_1" />
-        <RepostAchievement Name="achievement_name_blockedrounds_1" />
-        <RepostAchievement Name="achievement_name_fastrounds_1" />
-        <RepostAchievement Name="achievement_name_perfect_1" />
-        <RepostAchievement Name="achievement_name_perfect_2" />
-        <RepostAchievement Name="Achievement_Name_Bodyguards_1" />
-        <RepostAchievement Name="achievement_name_fastrounds_2" />
-        <RepostAchievement Name="achievement_name_BossNoLose_1" />
-        <RepostAchievement Name="achievement_name_BossNoLose_2" />
-        <RepostAchievement Name="Achievement_Name_Boss_1" />
-        <RepostAchievement Name="Achievement_Name_Win_After_Shock" />
-        <RepostAchievement Name="achievement_name_perfect_3" />
-        <RepostAchievement Name="achievement_name_headhitrounds_2" />
-        <RepostAchievement Name="achievement_name_kickfights_1" />
-        <RepostAchievement Name="achievement_name_kickfights_2" />
-        <RepostAchievement Name="achievement_name_firsthits_2" />
-        <RepostAchievement Name="Achievement_Name_Bodyguards_2" />
-        <RepostAchievement Name="achievement_name_fastrounds_3" />
-        <RepostAchievement Name="Achievement_Name_Boss_2" />
-        <RepostAchievement Name="achievement_name_disarm_eclipse_1" />
       </RepostAchievements>
       <ActiveLotteries>
         <Lottery Name="TicketMysteryBox_Junior" />
@@ -171,7 +162,6 @@
         <Timer Name="Timer_CNY23Offer" EndTime="1675674000" />
         <Timer Name="Timer_WeaponOfferZone1" EndTime="1675178417" />
         <Timer Name="Timer_PremiumPackZone2" EndTime="1675178862" />
-        <Timer Name="Timer_StarterPack" EndTime="1675099068" />
         <Timer Name="Timer_WeaponOfferZone2" EndTime="1675181978" />
       </Timers>
       <MapButtons>
@@ -180,7 +170,6 @@
         <Button Name="Button_CNY23Offer" Image="CHNY21EventPack_Sales_sale" Type="Image" ImagePath="Textures/buttons/map/" Timer="Timer_CNY23Offer" ShowType="Both" />
         <Button Name="Button_WeaponOfferZone1" Image="weapon_boss_claws_Sales_sale" Type="Image" ImagePath="Textures/buttons/map/" Timer="Timer_WeaponOfferZone1" ShowType="Story" />
         <Button Name="Button_PremiumPackZone2" Image="starter_pack_dark_chest_Sales_sale" Type="Image" ImagePath="Textures/buttons/map/" Timer="Timer_PremiumPackZone2" ShowType="Story" />
-        <Button Name="Button_StarterPack" Image="Textures/buttons/map/starter_pack" Type="Image" ImagePath="Textures/buttons/map/" Timer="Timer_StarterPack" ShowType="Story" />
         <Button Name="Button_WeaponOfferZone2" Image="weapon_hermit_swords_Sales_sale" Type="Image" ImagePath="Textures/buttons/map/" Timer="Timer_WeaponOfferZone2" ShowType="Story" />
         <Button Name="EclipseModeOn" Image="sun_icon" Type="Image" X="-876" Y="432" AnchorMinX="1" AnchorMinY="0.5" AnchorMaxX="1" AnchorMaxY="0.5" PivotX="0.5" PivotY="0.5" ImagePath="Textures/buttons/map/" Timer="0" ShowType="Story" Control="Y" />
       </MapButtons>
@@ -282,7 +271,7 @@
       </Fights>
       <SessionSettings>
         <QualityCondition Value="HIGH" />
-        <Disciple Value="0" />
+        <Disciple Value="1" />
         <ShowDojoDisciple Value="1" />
         <AdvertRate Value="100" />
         <AdvertRaidsRate Value="50" />
@@ -290,6 +279,26 @@
       </SessionSettings>
       <Quests>
         <Quests>
+          <Quest Name="SetBackVersionCheck" FileName="quests.xml">
+            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
+              <FightResult Name="" />
+              <RaidResult Name="" />
+              <Fight Name="" />
+              <LevelUp Value="0" />
+              <PowerAmount Value="0" />
+              <FightAvgFPS Value="0" />
+            </QuestParameters>
+          </Quest>
+          <Quest Name="PacksDownloadCheck" FileName="quest_extensions/packs.xml">
+            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
+              <FightResult Name="" />
+              <RaidResult Name="" />
+              <Fight Name="" />
+              <LevelUp Value="0" />
+              <PowerAmount Value="0" />
+              <FightAvgFPS Value="0" />
+            </QuestParameters>
+          </Quest>
         </Quests>
         <Variables>
           <Variable Name="FreeReminderShown" Value="0" />
@@ -298,7 +307,7 @@
           <Variable Name="ScriptsResumed" Value="1" />
           <Variable Name="GDPROnStartAccepted" Value="1" />
           <Variable Name="SurvivalRestartLimitPerFight" Value="1" />
-          <Variable Name="SurvivalRestartTimerValue" Value="10" />
+          <Variable Name="SurvivalRestartTimerValue" Value="5" />
           <Variable Name="EventEnd" Value="1675674000" />
           <Variable Name="MiniEventEnd" Value="1671786000" />
           <Variable Name="NotEnoughCurrencyColor" Value="#9b1c07" />
@@ -408,6 +417,8 @@
           <Variable Name="MagicAvailableTag" Value="1" />
           <Variable Name="BestAcquiredMagicLevel" Value="5240" />
           <Variable Name="Zone3Guard1Greetings" Value="1" />
+          <Variable Name="StarterPackOfferEnded" Value="1" />
+          <Variable Name="StarterPack_CheckFight" Value="0" />
         </Variables>
       </Quests>
       <FBData id="" />
@@ -498,6 +509,7 @@
           <Item Name="Pile_Coins_3" />
           <Item Name="Bag_Coins_3" />
           <Item Name="Chest_Coins_3" />
+          <Item Name="drop_name_blueseal" />
           <Item Name="drop_name_greenseal" />
         </Items>
       </CounterItems>
@@ -507,5 +519,5 @@
     <Version Value="2.25.0" />
     <DataVersion Value="2.25.0.0" />
   </Versions>
-  <GameLaunchIndex Value="6" />
+  <GameLaunchIndex Value="18" />
 </Root>
