@@ -101,7 +101,7 @@
         <Battle Name="ZONE_3|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
         <Battle Name="ZONE_3|Challenge|" Locked="1" Hidden="0" ReplayCount="0" />
       </Battles>
-      <Currencies ForgeMaterial1="9870000000" ForgeMaterial2="9870000000" ForgeMaterial3="9870000000" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="9877777777" ForgeMaterial2="9877777777" ForgeMaterial3="9877777777" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
         <Counter Name="FirstHits" CurrentValue="36" />
