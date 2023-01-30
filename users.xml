@@ -8,13 +8,14 @@
     <WatchedVideos />
   </CurrentUser>
   <Warriors>
-    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="177" Bonus="9" Strength="3" Stamina="3" Level="2" Experience="10" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="Body" Helm="Head" Weapon="WEAPON_KNIVES" Ranged="NoRanged" Magic="NoMagic" ShowUpgrades="0" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_1" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="1208725331" ServerUserID="889652702" AskedForDumps="1" Language="eng" RaidTutorialStep="" RaidTutorialGemsTaken="" ClanTutorial="" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="0" RemindNewShards="0" RaidToggleIsVisible="0" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675044395" FightIDS="ZONE_1|Tournament|1" MapFocus="ZONE_1|Tournament">
+    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="177" Bonus="98700000" Strength="3" Stamina="3" Level="2" Experience="10" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="Body" Helm="Head" Weapon="WEAPON_KNIVES" Ranged="NoRanged" Magic="NoMagic" ShowUpgrades="0" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_1" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="1208725331" ServerUserID="889652702" AskedForDumps="1" Language="eng" RaidTutorialStep="" RaidTutorialGemsTaken="" ClanTutorial="" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="0" RemindNewShards="0" RaidToggleIsVisible="0" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675044395" FightIDS="ZONE_1|Tournament|1" MapFocus="ZONE_1|Tournament">
       <Items>
         <Item Name="Body" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Head" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="NoRanged" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="NoMagic" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="Unlimited_Energy" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="WEAPON_KNIVES" Equipped="1" Count="1" UpgradeLevel="100" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
       </Items>
       <Battles>
@@ -119,9 +120,8 @@
         <AdvertRate Value="100" />
         <AdvertRaidsRate Value="50" />
         <AdvertBannersRaidsRate Value="0" />
-        <Disciple Value="0" />
-        <ShowDojoDisciple Value="0" />
         <Disciple Value="1" />
+        <ShowDojoDisciple Value="1" />
       </SessionSettings>
       <Quests>
         <Quests>
