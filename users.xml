@@ -41,7 +41,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1871" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -49,7 +49,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
-              <Set Aspect="1857" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -57,7 +57,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
-              <Set Aspect="1853" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -65,15 +65,15 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_RANGED">
-              <Set Aspect="1854" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
         <Item Name="MAGIC_C2_Z3_SENTINEL_DRAGON" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
-            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_MAGIC">
-              <Set Aspect="1873" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -81,7 +81,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -89,7 +89,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
-              <Set Aspect="1875" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -97,7 +97,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
-              <Set Aspect="1867" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -105,7 +105,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_RANGED">
-              <Set Aspect="1866" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -113,7 +113,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1887" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -121,7 +121,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
-              <Set Aspect="1876" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -129,7 +129,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
-              <Set Aspect="1875" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
