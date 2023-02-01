@@ -2,14 +2,14 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_MAGIC_DAMAGE_RECHARGE_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
         <Item Name="ARMOR_C2_Z3_SENTINEL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
           </Enchantments>
@@ -18,7 +18,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -26,7 +26,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -34,7 +34,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_WEAKNESS_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -42,14 +42,14 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
         <Item Name="ARMOR_C2_Z2_MONK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_BODY_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -58,7 +58,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -66,14 +66,14 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
         <Item Name="MAGIC_C2_Z2_MONK_ROOT_STUN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -82,7 +82,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_REJUVENATION_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -90,7 +90,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_REJUVENATION_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -98,7 +98,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -106,7 +106,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -114,7 +114,7 @@
           <Enchantments>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
             <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -122,7 +122,7 @@
           <Enchantments>
             <Perk Name="PERK_SKANDA_SET_KARMA" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -130,7 +130,7 @@
           <Enchantments>
             <Perk Name="PERK_SKANDA_SET_KARMA" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -138,7 +138,7 @@
           <Enchantments>
             <Perk Name="PERK_SKANDA_SET_KARMA" />
             <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -146,7 +146,7 @@
           <Enchantments>
             <Perk Name="PERK_SKANDA_SET_KARMA" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -154,7 +154,7 @@
           <Enchantments>
             <Perk Name="PERK_SKANDA_SET_KARMA" />
             <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -162,7 +162,7 @@
           <Enchantments>
             <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
             <Perk Name="PERK_ITEM_SPECIAL_MAGIC_PAIN_RECHARGE_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -170,7 +170,7 @@
           <Enchantments>
             <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
             <Perk Name="PERK_ITEM_SPECIAL_MAGIC_PAIN_RECHARGE_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -178,7 +178,7 @@
           <Enchantments>
             <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
             <Perk Name="PERK_ITEM_SPECIAL_STUN_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -186,7 +186,7 @@
           <Enchantments>
             <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
             <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -194,7 +194,7 @@
           <Enchantments>
             <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -202,7 +202,7 @@
           <Enchantments>
             <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
             <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -210,7 +210,7 @@
           <Enchantments>
             <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
             <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -218,7 +218,7 @@
           <Enchantments>
             <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
             <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -226,7 +226,7 @@
           <Enchantments>
             <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
             <Perk Name="PERK_ITEM_SPECIAL_STUN_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -234,7 +234,7 @@
           <Enchantments>
             <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
             <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -242,7 +242,7 @@
           <Enchantments>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -250,14 +250,14 @@
           <Enchantments>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_ARMOR">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
         <Item Name="WEAPON_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_WEAPON">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
           </Enchantments>
@@ -266,7 +266,7 @@
           <Enchantments>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
             <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_RANGED">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -274,7 +274,7 @@
           <Enchantments>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
             <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_MAGIC">
-              <Set Aspect="1942" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
