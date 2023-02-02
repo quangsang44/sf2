@@ -11,7 +11,7 @@
     </WatchedVideos>
   </CurrentUser>
   <Warriors>
-    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_human" Voice="Male" Money="327871020000000" Bonus="9776958304" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_C2_Z2_MONK" Helm="HELM_C2_Z2_MONK" Weapon="WEAPON_LABRYS_AXES" Ranged="RANGED_C2_Z2_MONK_SHURIKEN" Magic="MAGIC_SAWMILL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_7" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="632243591" ServerUserID="890014182" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="1" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="0" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675319748" FightIDS="ZONE_RAID|BOSS_3|1" MapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere2_Name" RaidBuffName="PotionRock" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" ShowForge="1" PeriodicPlayTime="0" EclipseMode="On" MapMaskColor="#83624BFF" DenominationDigits="7" CoinIcon="MiscSprites.credit">
+    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_human" Voice="Male" Money="327871020000000" Bonus="9776957295" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_C2_Z2_MONK" Helm="HELM_C2_Z2_MONK" Weapon="WEAPON_LABRYS_AXES" Ranged="RANGED_C2_Z2_MONK_SHURIKEN" Magic="MAGIC_SAWMILL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_7" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="632243591" ServerUserID="890014182" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="1" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675331211" FightIDS="ZONE_RAID|BOSS_3|1" MapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere2_Name" RaidBuffName="PotionRock" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" ShowForge="1" PeriodicPlayTime="0" EclipseMode="On" MapMaskColor="#83624BFF" DenominationDigits="7" CoinIcon="MiscSprites.credit">
       <Items>
         <Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
@@ -240,6 +240,9 @@
         <Item Name="MAGIC_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1886" />
+            </Perk>
           </Enchantments>
         </Item>
         <Item Name="WEAPON_HW14_BROOM" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
@@ -337,6 +340,12 @@
         <Item Name="RANGED_XMAS16_COOKIE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
         </Item>
         <Item Name="MAGIC_XMAS16_ICEBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1884" />
+            </Perk>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
         </Item>
         <Item Name="WEAPON_NY18_MACE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
@@ -361,6 +370,9 @@
         <Item Name="NY21_MAGIC_SNOW_CLOUD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
         <Item Name="MAGIC_NY18_SNOWBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+          </Enchantments>
         </Item>
         <Item Name="NY20_WEAPON_CANDY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
@@ -702,7 +714,7 @@
         <Item Name="WEAPON_LABRYS_AXES" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1897" />
+              <Set Aspect="1882" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -946,8 +958,8 @@
         </Item>
         <Item Name="MAGIC_ACID_CLOUD" Equipped="0" Count="1" UpgradeLevel="5130" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
-            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_MAGIC">
-              <Set Aspect="1855" />
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_MAGIC">
+              <Set Aspect="1850" />
             </Perk>
           </Enchantments>
         </Item>
@@ -990,7 +1002,7 @@
         <Item Name="MAGIC_SAWMILL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1897" />
+              <Set Aspect="1892" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -1050,14 +1062,14 @@
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_WASP_NAGINATA" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="WEAPON_WASP_NAGINATA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
               <Set Aspect="1997.28" />
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_WIDOW_FANS" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="WEAPON_WIDOW_FANS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_WEAPON">
               <Set Aspect="1952.28" />
@@ -1070,6 +1082,14 @@
               <Set Aspect="1997.28" />
             </Perk>
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_FIRE_AURA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1840" />
+            </Perk>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
           </Enchantments>
         </Item>
       </Items>
@@ -1132,7 +1152,7 @@
         <Battle Name="ZONE_7|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" RandomRuleSeed="1770993132" RandomGroupSeed="1770993255" />
         <Battle Name="ZONE_7|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" RandomRuleSeed="1247526606" RandomGroupSeed="1247526729" />
       </Battles>
-      <Currencies ForgeMaterial1="976829470" ForgeMaterial2="65832423" ForgeMaterial3="95154288" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="969460572" ForgeMaterial2="63724572" ForgeMaterial3="94567338" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
         <Counter Name="Combo3" CurrentValue="210" />
@@ -1153,7 +1173,7 @@
         <Counter Name="BossNoLose" CurrentValue="16" />
         <Counter Name="BossWin1" CurrentValue="1" />
         <Counter Name="KickFights" CurrentValue="10" />
-        <Counter Name="Enchantments" CurrentValue="1200" />
+        <Counter Name="Enchantments" CurrentValue="1237" />
         <Counter Name="DisarmEclipse" CurrentValue="13" />
         <Counter Name="PerfectRoundEclipse" CurrentValue="29" />
         <Counter Name="PunchFights" CurrentValue="1" />
@@ -2312,5 +2332,5 @@
     <Version Value="2.25.0" />
     <DataVersion Value="2.25.0.0" />
   </Versions>
-  <GameLaunchIndex Value="48" />
+  <GameLaunchIndex Value="51" />
 </Root>
