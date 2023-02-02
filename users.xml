@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <CurrentUser ID="1" Language="eng" GraphicsSettings="Default" TexturesQuality="High" LocationsQuality="High" LastSaveSlot="0">
     <Sounds>
@@ -714,7 +714,7 @@
         <Item Name="WEAPON_LABRYS_AXES" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1882" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -1002,7 +1002,7 @@
         <Item Name="MAGIC_SAWMILL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1892" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -1152,7 +1152,7 @@
         <Battle Name="ZONE_7|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" RandomRuleSeed="1770993132" RandomGroupSeed="1770993255" />
         <Battle Name="ZONE_7|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" RandomRuleSeed="1247526606" RandomGroupSeed="1247526729" />
       </Battles>
-      <Currencies ForgeMaterial1="969460572" ForgeMaterial2="63724572" ForgeMaterial3="94567338" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="969460572" ForgeMaterial2="969460572" ForgeMaterial3="969460572" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
         <Counter Name="Combo3" CurrentValue="210" />
