@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <CurrentUser ID="1" Language="eng" GraphicsSettings="Default" TexturesQuality="High" LocationsQuality="High" LastSaveSlot="0">
     <Sounds>
@@ -11,7 +11,7 @@
     </WatchedVideos>
   </CurrentUser>
   <Warriors>
-    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_human" Voice="Male" Money="327871020000000" Bonus="9776957295" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_C2_Z2_MONK" Helm="HELM_C2_Z2_MONK" Weapon="WEAPON_LABRYS_AXES" Ranged="RANGED_C2_Z2_MONK_SHURIKEN" Magic="MAGIC_SAWMILL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_7" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="632243591" ServerUserID="890014182" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="1" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675331211" FightIDS="ZONE_RAID|BOSS_3|1" MapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere2_Name" RaidBuffName="PotionRock" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" ShowForge="1" PeriodicPlayTime="0" EclipseMode="On" MapMaskColor="#83624BFF" DenominationDigits="7" CoinIcon="MiscSprites.credit">
+    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_human" Voice="Male" Money="327871470000000" Bonus="9776956975" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_NY18_MANTLE" Helm="NY21_HELM_ICED" Weapon="WEAPON_LABRYS_AXES" Ranged="RANGED_C2_Z2_MONK_SHURIKEN" Magic="MAGIC_SAWMILL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_7" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="632243591" ServerUserID="890014182" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="1" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1675331211" FightIDS="ZONE_7|C3_FightWithMay_ECLIPSEMODE|1" MapFocus="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere2_Name" RaidBuffName="PotionRock" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|BOSS_SHUANG_GOU_22" ShowForge="1" PeriodicPlayTime="0" EclipseMode="On" MapMaskColor="#83624BFF" DenominationDigits="7" CoinIcon="MiscSprites.credit">
       <Items>
         <Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
@@ -85,7 +85,7 @@
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="ARMOR_C2_Z2_MONK" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        <Item Name="ARMOR_C2_Z2_MONK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
@@ -93,7 +93,7 @@
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="HELM_C2_Z2_MONK" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        <Item Name="HELM_C2_Z2_MONK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
@@ -240,9 +240,6 @@
         <Item Name="MAGIC_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_GUST_SET_WIND_MAKER" />
-            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1886" />
-            </Perk>
           </Enchantments>
         </Item>
         <Item Name="WEAPON_HW14_BROOM" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
@@ -353,7 +350,10 @@
         </Item>
         <Item Name="NY21_WEAPON_ICEKNUCKLES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
-        <Item Name="ARMOR_NY18_MANTLE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="ARMOR_NY18_MANTLE" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
         </Item>
         <Item Name="NY21_ARMOR_CUIRASS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
@@ -361,7 +361,7 @@
         </Item>
         <Item Name="NY21_HELM_BREAD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
-        <Item Name="NY21_HELM_ICED" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="NY21_HELM_ICED" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
         <Item Name="NY21_RANGED_SNOWRIKENS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
@@ -1152,35 +1152,35 @@
         <Battle Name="ZONE_7|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" RandomRuleSeed="1770993132" RandomGroupSeed="1770993255" />
         <Battle Name="ZONE_7|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" RandomRuleSeed="1247526606" RandomGroupSeed="1247526729" />
       </Battles>
-      <Currencies ForgeMaterial1="969460572" ForgeMaterial2="969460572" ForgeMaterial3="969460572" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="959553484" ForgeMaterial2="966469404" ForgeMaterial3="968094620" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
-        <Counter Name="Combo3" CurrentValue="210" />
+        <Counter Name="Combo3" CurrentValue="217" />
         <Counter Name="Unarmed" CurrentValue="7" />
         <Counter Name="ShockWin" CurrentValue="8" />
-        <Counter Name="FirstHits" CurrentValue="712" />
-        <Counter Name="HeadHitRound" CurrentValue="609" />
-        <Counter Name="BodyguardsWin" CurrentValue="66" />
+        <Counter Name="FirstHits" CurrentValue="732" />
+        <Counter Name="HeadHitRound" CurrentValue="618" />
+        <Counter Name="BodyguardsWin" CurrentValue="70" />
         <Counter Name="BlockedRound" CurrentValue="15" />
-        <Counter Name="FastRounds" CurrentValue="491" />
-        <Counter Name="PerfectRound" CurrentValue="330" />
-        <Counter Name="StyleAggressive" CurrentValue="27" />
-        <Counter Name="Disarm" CurrentValue="155" />
-        <Counter Name="InsaneWin" CurrentValue="59" />
+        <Counter Name="FastRounds" CurrentValue="493" />
+        <Counter Name="PerfectRound" CurrentValue="332" />
+        <Counter Name="StyleAggressive" CurrentValue="30" />
+        <Counter Name="Disarm" CurrentValue="160" />
+        <Counter Name="InsaneWin" CurrentValue="62" />
         <Counter Name="BodyGuardsWin1" CurrentValue="1" />
         <Counter Name="TournamentsBeaten" CurrentValue="15" />
         <Counter Name="BossWin" CurrentValue="17" />
         <Counter Name="BossNoLose" CurrentValue="16" />
         <Counter Name="BossWin1" CurrentValue="1" />
         <Counter Name="KickFights" CurrentValue="10" />
-        <Counter Name="Enchantments" CurrentValue="1237" />
-        <Counter Name="DisarmEclipse" CurrentValue="13" />
-        <Counter Name="PerfectRoundEclipse" CurrentValue="29" />
+        <Counter Name="Enchantments" CurrentValue="1269" />
+        <Counter Name="DisarmEclipse" CurrentValue="18" />
+        <Counter Name="PerfectRoundEclipse" CurrentValue="31" />
         <Counter Name="PunchFights" CurrentValue="1" />
         <Counter Name="HardWin" CurrentValue="39" />
         <Counter Name="Combo6" CurrentValue="38" />
-        <Counter Name="BarelyAliveRounds" CurrentValue="11" />
-        <Counter Name="Losses" CurrentValue="23" />
+        <Counter Name="BarelyAliveRounds" CurrentValue="13" />
+        <Counter Name="Losses" CurrentValue="33" />
         <Counter Name="BodyGuardsWin2" CurrentValue="1" />
         <Counter Name="BossWin2" CurrentValue="1" />
         <Counter Name="ChallangesBeaten" CurrentValue="13" />
@@ -1203,17 +1203,17 @@
         <Counter Name="AncientWin" CurrentValue="1" />
         <Counter Name="IncubatorWin" CurrentValue="1" />
         <Counter Name="ShroudWin" CurrentValue="1" />
-        <Counter Name="ImpossibleWin" CurrentValue="1" />
+        <Counter Name="ImpossibleWin" CurrentValue="2" />
         <Counter Name="StoneGroveWin" CurrentValue="1" />
         <Counter Name="MaximumLevel" CurrentValue="1" />
         <Counter Name="MayWin" CurrentValue="1" />
         <Counter Name="TitanWin" CurrentValue="1" />
-        <Counter Name="BarelyAliveRoundsEclipse" CurrentValue="1" />
+        <Counter Name="BarelyAliveRoundsEclipse" CurrentValue="3" />
         <Counter Name="BossRematch1" CurrentValue="1" />
         <Counter Name="ShockWinEclipse" CurrentValue="2" />
         <Counter Name="BossRematch2" CurrentValue="1" />
         <Counter Name="BossRematch3" CurrentValue="1" />
-        <Counter Name="LossesEclipse" CurrentValue="2" />
+        <Counter Name="LossesEclipse" CurrentValue="12" />
         <Counter Name="BossRematch4" CurrentValue="1" />
         <Counter Name="BossRematch5" CurrentValue="1" />
         <Counter Name="BossRematch6" CurrentValue="1" />
@@ -1944,6 +1944,12 @@
         <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1675322580" RandomizeTimeLeft="0" Level="52" />
         <Fight ID="-1" IDS="ZONE_RAID|BOSS_SHUANG_GOU_22|1" CompletedCount="2" LossCount="1" EclipseCompletedCount="2" EclipseLossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1675322919" RandomizeTimeLeft="0" Level="52" />
         <Fight ID="-1" IDS="ZONE_RAID|BOSS_3|1" CompletedCount="1" LossCount="6" EclipseCompletedCount="1" EclipseLossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1675323560" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|2" CompletedCount="1" LossCount="1" EclipseCompletedCount="1" EclipseLossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1675332107" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|3" CompletedCount="1" LossCount="6" EclipseCompletedCount="1" EclipseLossCount="6" StoryCount="0" CompletedTime="0" TimeLeft="1675332852" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1675332942" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|5" CompletedCount="1" LossCount="3" EclipseCompletedCount="1" EclipseLossCount="3" StoryCount="0" CompletedTime="0" TimeLeft="1675333325" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|6" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="0" Level="0" />
+        <Fight ID="-1" IDS="ZONE_7|C3_FightWithMay_ECLIPSEMODE|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1675333413" RandomizeTimeLeft="0" Level="0" />
       </Fights>
       <SessionSettings>
         <QualityCondition Value="HIGH" />
@@ -1955,6 +1961,26 @@
       </SessionSettings>
       <Quests>
         <Quests>
+          <Quest Name="SetBackVersionCheck" FileName="quests.xml">
+            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
+              <FightResult Name="" />
+              <RaidResult Name="" />
+              <Fight Name="" />
+              <LevelUp Value="0" />
+              <PowerAmount Value="0" />
+              <FightAvgFPS Value="0" />
+            </QuestParameters>
+          </Quest>
+          <Quest Name="PacksDownloadCheck" FileName="quest_extensions/packs.xml">
+            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
+              <FightResult Name="" />
+              <RaidResult Name="" />
+              <Fight Name="" />
+              <LevelUp Value="0" />
+              <PowerAmount Value="0" />
+              <FightAvgFPS Value="0" />
+            </QuestParameters>
+          </Quest>
         </Quests>
         <Variables>
           <Variable Name="FreeReminderShown" Value="0" />
@@ -1963,7 +1989,7 @@
           <Variable Name="ScriptsResumed" Value="1" />
           <Variable Name="GDPROnStartAccepted" Value="1" />
           <Variable Name="SurvivalRestartLimitPerFight" Value="1" />
-          <Variable Name="SurvivalRestartTimerValue" Value="10" />
+          <Variable Name="SurvivalRestartTimerValue" Value="5" />
           <Variable Name="EventEnd" Value="1675674000" />
           <Variable Name="MiniEventEnd" Value="1671786000" />
           <Variable Name="NotEnoughCurrencyColor" Value="#9b1c07" />
@@ -2020,7 +2046,7 @@
           <Variable Name="RaidWinAfterVolcanoStory" Value="1" />
           <Variable Name="PlayerInfoTutorialComplete" Value="1" />
           <Variable Name="ClanCreationGiftCNY23Anounce" Value="1" />
-          <Variable Name="GoToRaidsNotify" Value="0" />
+          <Variable Name="GoToRaidsNotify" Value="5" />
           <Variable Name="Raid_Shards_Tutorial_Started" Value="1" />
           <Variable Name="Raid_Shards_Tutorial_Ended" Value="1" />
           <Variable Name="CNY23ShopAdvNYChest" Value="1" />
@@ -2170,7 +2196,7 @@
           <Variable Name="FinalBattleGreetings" Value="1" />
           <Variable Name="ImLynxGreetings" Value="1" />
           <Variable Name="ForgeMaterialPackName" Value="Pile_ForgeMaterial_7_3" />
-          <Variable Name="OfferColldown" Value="0" />
+          <Variable Name="OfferColldown" Value="8" />
           <Variable Name="ImHermitGreetings" Value="1" />
           <Variable Name="IMStranger1Greetings" Value="1" />
           <Variable Name="IMStranger1OnShopLeave" Value="0" />
@@ -2211,7 +2237,7 @@
           <Variable Name="Zone7Guard4Greetings" Value="1" />
           <Variable Name="Zone7Guard5Greetings" Value="1" />
           <Variable Name="HumanAvatarSet" Value="1" />
-          <Variable Name="SuperEnchantmentActive" Value="1" />
+          <Variable Name="SuperEnchantmentActive" Value="0" />
           <Variable Name="ZONE_1_BOSS_weapon_drop" Value="1" />
           <Variable Name="FirstGemPurchaseBonus" Value="0" />
           <Variable Name="RaidBeginnerPackEnded" Value="1" />
@@ -2332,5 +2358,5 @@
     <Version Value="2.25.0" />
     <DataVersion Value="2.25.0.0" />
   </Versions>
-  <GameLaunchIndex Value="53" />
+  <GameLaunchIndex Value="56" />
 </Root>
