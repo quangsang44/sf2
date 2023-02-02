@@ -34,7 +34,7 @@
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1890" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -42,7 +42,7 @@
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
-              <Set Aspect="1847" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -50,7 +50,7 @@
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
-              <Set Aspect="1885" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -58,7 +58,7 @@
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_RANGED">
-              <Set Aspect="1893" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -66,7 +66,7 @@
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1863" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
