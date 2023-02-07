@@ -126,7 +126,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
-              <Set Aspect="1888" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -134,7 +134,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
-              <Set Aspect="1884" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -806,7 +806,7 @@
         <Item Name="WEAPON_GOLDEN_KATANA" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1841" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -1169,7 +1169,7 @@
         <Item Name="MAGIC_SAWMILL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1892" />
+              <Set Aspect="1897" />
             </Perk>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
