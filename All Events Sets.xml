@@ -87,6 +87,8 @@
         </Item>
         <Item Name="WEAPON_XMAS16_CANES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
         </Item>
+        <Item Name="WEAPON_XMAS16_CANDY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
+        </Item>
         <Item Name="WEAPON_XMAS16_GLAIVE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
         </Item>
         <Item Name="ARMOR_XMAS16_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
@@ -226,4 +228,12 @@
         <Item Name="RANGED_SUMMER21_SQUID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
         <Item Name="RANGED_SUMMER21_DONUT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_SWORD_NY23_PAID_OFFER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_CHNY22_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_PERNACH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_STUFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
         </Item>
