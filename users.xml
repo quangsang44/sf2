@@ -11,7 +11,7 @@
     </WatchedVideos>
   </CurrentUser>
   <Warriors>
-    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_human" Voice="Male" Money="445817880000000" Bonus="9776906768" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_C2_Z2_MONK" Helm="HELM_C2_Z2_MONK" Weapon="WEAPON_SWORD_NY23_PAID_OFFER" Ranged="RANGED_CIRCULAR_SAW" Magic="MAGIC_SAWMILL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_7" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="632243591" ServerUserID="894552130" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="13" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="0" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="0" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1676094698" FightIDS="ZONE_7|C3_Survival|1" MapFocus="ZONE_1|BOSS_LYNX_ECLIPSEMODE" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere3_Name" RaidBuffName="PotionRock" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|BOSS_1" ShowForge="1" PeriodicPlayTime="1676078313" EclipseMode="On" MapMaskColor="#83624BFF" DenominationDigits="7" CoinIcon="MiscSprites.credit" IndexSlider="0" PaidMoney="0">
+    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_human" Voice="Male" Money="445817880000000" Bonus="9776906532" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_HALF-LIFE" Helm="HELM_C2_Z2_MONK" Weapon="WEAPON_SWORD_NY23_PAID_OFFER" Ranged="RANGED_CIRCULAR_SAW" Magic="MAGIC_SAWMILL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_7" PaymentActionsResendRequestCompleted="1" SaveSlot="0" InstallID="632243591" ServerUserID="894552130" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ClanTutorial="13" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="0" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="0" RemindNewShards="0" RaidToggleIsVisible="1" ShowBuyConsumablesConfirmation="1" RemindResetClanRaiting="1" UnconfirmedLedgerIDs="" LastDumpTime="1676100293" FightIDS="ZONE_7|C3_Survival|1" MapFocus="ZONE_1|BOSS_LYNX_ECLIPSEMODE" SocialLoginFailedCount="0" PaidBonus="0" WatchedVideo="" RaidChargeName="Sphere3_Name" RaidBuffName="PotionRock" RaidTeamBuffName="" RaidMapFocus="ZONE_RAID|BOSS_1" ShowForge="1" PeriodicPlayTime="1676078313" EclipseMode="On" MapMaskColor="#83624BFF" DenominationDigits="7" CoinIcon="MiscSprites.credit" IndexSlider="0" PaidMoney="0">
       <Items>
         <Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
@@ -123,7 +123,7 @@
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
         </Item>
-        <Item Name="ARMOR_C2_Z2_MONK" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        <Item Name="ARMOR_C2_Z2_MONK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
@@ -1486,6 +1486,13 @@
         <Item Name="WEAPON_DAGGERS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade" />
         <Item Name="WEAPON_MACHETE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade" />
         <Item Name="WEAPON_STEEL_BATONS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade" />
+        <Item Name="ARMOR_HALF-LIFE" Equipped="1" Count="1" UpgradeLevel="5200" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_BODY_ARMOR">
+              <Set Aspect="1867" />
+            </Perk>
+          </Enchantments>
+        </Item>
       </Items>
       <Battles>
         <Battle Name="ZONE_1|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="2" RandomRuleSeed="3100500800" RandomGroupSeed="3100500923" />
@@ -2803,7 +2810,7 @@
           <Variable Name="Zone7Guard4Greetings" Value="1" />
           <Variable Name="Zone7Guard5Greetings" Value="1" />
           <Variable Name="HumanAvatarSet" Value="1" />
-          <Variable Name="SuperEnchantmentActive" Value="1" />
+          <Variable Name="SuperEnchantmentActive" Value="0" />
           <Variable Name="ZONE_1_BOSS_weapon_drop" Value="1" />
           <Variable Name="FirstGemPurchaseBonus" Value="0" />
           <Variable Name="RaidBeginnerPackEnded" Value="1" />
@@ -2961,5 +2968,5 @@
     <Version Value="2.25.0" />
     <DataVersion Value="2.25.0.0" />
   </Versions>
-  <GameLaunchIndex Value="166" />
+  <GameLaunchIndex Value="167" />
 </Root>
