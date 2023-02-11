@@ -30,6 +30,16 @@
             </Perk>
           </Enchantments>
         </Item>
+        <Item Name="WEAPON_XMAS16_CANDY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" AcquireType="Upgrade" DeliveryUpgradeLevel="-1">
+        </Item>
+        <Item Name="WEAPON_SWORD_NY23_PAID_OFFER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_CHNY22_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_PERNACH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_STUFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        </Item>
         <Item Name="WEAPON_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
@@ -1535,7 +1545,7 @@
         <Battle Name="ZONE_7|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="2" RandomRuleSeed="3155480012" RandomGroupSeed="3155480135" />
         <Battle Name="ZONE_7|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="4" RandomRuleSeed="2744224460" RandomGroupSeed="2744224583" />
       </Battles>
-      <Currencies ForgeMaterial1="260370916" ForgeMaterial2="772129526" ForgeMaterial3="882805401" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="8828054019" ForgeMaterial2="8828054019" ForgeMaterial3="8828054019" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
         <Counter Name="Combo3" CurrentValue="2210" />
