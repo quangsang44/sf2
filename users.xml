@@ -30,11 +30,42 @@
             </Perk>
           </Enchantments>
         </Item>
+        <Item Name="WEAPON_HERMIT_SWORDS_PAID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
+        <Item Name="WEAPON_BUTCHER_KNIVES_PAID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
+        <Item Name="WEAPON_LYNX_CLAWS_PAID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_KNIFE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
+        <Item Name="HELM_FINAL_CHAOS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
+              <Set Aspect="1897" />
+            </Perk>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_FINAL_HARMONY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
+        <Item Name="Pack_Starter" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" AcquireType="Item" DeliveryUpgradeLevel="-1" />
+        <Item Name="WEAPON_STARTER_PACK_TONFA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="1897" />
+            </Perk>
+            <Perk Name="PERK_MONK_SET_WHIRL" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BOAT_FESTIVAL_SUPER_SHURIKEN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
+        <Item Name="RANGED_CHNY22_WEIGHED_KUNAI" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" AcquireType="Upgrade" DeliveryUpgradeLevel="5240">
+        </Item>
         <Item Name="MAGIC_CHNY22_WATERBALL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1888" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -44,37 +75,37 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1887" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_CHNY22_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="WEAPON_CHNY22_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
         </Item>
-        <Item Name="WEAPON_MINI_EVENT_PERNACH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="WEAPON_MINI_EVENT_PERNACH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
         </Item>
-        <Item Name="WEAPON_MINI_EVENT_STUFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="WEAPON_MINI_EVENT_STUFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
         </Item>
-        <Item Name="WEAPON_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="WEAPON_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
           </Enchantments>
         </Item>
-        <Item Name="HELM_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="HELM_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
           </Enchantments>
         </Item>
-        <Item Name="ARMOR_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="ARMOR_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
           </Enchantments>
         </Item>
-        <Item Name="RANGED_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="RANGED_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
           </Enchantments>
         </Item>
-        <Item Name="MAGIC_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="MAGIC_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
           </Enchantments>
@@ -98,7 +129,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_ARMOR">
-              <Set Aspect="1881" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -106,7 +137,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
-              <Set Aspect="1895" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -154,7 +185,7 @@
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_RANGED">
-              <Set Aspect="1874" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -341,7 +372,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1895" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -558,7 +589,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
-              <Set Aspect="1858" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -1022,7 +1053,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1859" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -1269,7 +1300,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
-              <Set Aspect="1894" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -1365,7 +1396,7 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
-              <Set Aspect="1891" />
+              <Set Aspect="1897" />
             </Perk>
           </Enchantments>
         </Item>
@@ -1572,7 +1603,7 @@
         <Battle Name="ZONE_7|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="2" RandomRuleSeed="3155480012" RandomGroupSeed="3155480135" />
         <Battle Name="ZONE_7|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="10" RandomRuleSeed="1667213162" RandomGroupSeed="1667213285" />
       </Battles>
-      <Currencies ForgeMaterial1="65082207" ForgeMaterial2="90028881" ForgeMaterial3="97799411" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="977994119" ForgeMaterial2="977994119" ForgeMaterial3="977994119" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <Counters>
         <Counter Name="Combo3" CurrentValue="2457" />
