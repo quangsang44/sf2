@@ -4,28 +4,28 @@
               <Set Aspect="1952.28" />
             </Perk>
           </Enchantments>
-       <Item Name="WEAPON_HERMIT_SWORDS" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+       <Item Name="WEAPON_HERMIT_SWORDS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
               <Set Aspect="1952.28" />
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_BUTCHER_KNIVES" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="WEAPON_BUTCHER_KNIVES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
               <Set Aspect="1952.28" />
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_WASP_NAGINATA" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="WEAPON_WASP_NAGINATA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
               <Set Aspect="1997.28" />
             </Perk>
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_WIDOW_FANS" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+        <Item Name="WEAPON_WIDOW_FANS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_WEAPON">
               <Set Aspect="1952.28" />
