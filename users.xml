@@ -1321,7 +1321,10 @@
           <Enchantments>
             <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
             <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_WEAPON">
-              <Set Aspect="1883" />
+              <Set Aspect="1997.28" />
+            </Perk>
+            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
+              <Set Aspect="1952.28" />
             </Perk>
           </Enchantments>
         </Item>
